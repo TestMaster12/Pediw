@@ -438,7 +438,7 @@ function create_config( )
 
 !webshot (آدرس سایت)
 اسکرین شات گرفتن از یک سایت
-]],
+-]],
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
