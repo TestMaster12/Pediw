@@ -262,7 +262,14 @@ function create_config( )
     },
     sudo_users = {140540176},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[ ]],
+    about_text = [[ 
+🚀 Pediw
+
+- Sudo : @Pediw
+- Bot : @Pediw_Bot
+
+-
+]],
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
